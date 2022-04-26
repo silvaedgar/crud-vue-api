@@ -1,5 +1,6 @@
 # crud-api
-
+Contiene un CRUD en VueJS. Back-end Laravel y Mysql con BD. 
+EL archivo source-laravel.txt contiene la configuracion del Controller, Model, Routes y Database en Laravel para poder consumir la API
 ## Project setup
 ```
 npm install
